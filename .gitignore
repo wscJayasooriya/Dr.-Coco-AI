@@ -129,6 +129,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+CoconutDiseases/
 
 # Spyder project settings
 .spyderproject
